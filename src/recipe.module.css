@@ -1,0 +1,48 @@
+.recipe{
+
+}
+
+.image{
+    width: 100%;
+    object-fit: cover;
+    height: 200px;
+}
+
+.title{
+    font-size: 30px;
+    color: orangered;
+    margin: 0;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.list{
+    height: 400px;
+    overflow-y: scroll;
+}
+
+.listItem{
+    margin-left: 20px;
+    padding-left: 10px;
+    margin-bottom: 5px;
+}
+
+.listItem:last-of-type{
+    margin-bottom: 0;
+}
+
+.meta{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 10px 15px;
+    background-color:#f6d365;
+    color: orangered;
+}
+
+.recipeContainer{
+    padding: 15px 15px 30px;
+    background-color: rgba(200,200,200,0.1);
+}

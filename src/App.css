@@ -59,7 +59,9 @@ header{
   font-size: 30px;
   margin: 20px 0 50px 0 ;
 }
-
+.hero h2{
+font-size: 20px;
+}
 .recipes-content{
   display: grid;
   grid-template-columns: repeat(3, 1fr);

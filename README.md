@@ -1,15 +1,6 @@
 
+### `Super Recipes`
+It is a recipe search app. The users can search recipes, view the recipe source page and youtube video.
 
-
-
-
-### `npm run build`
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-
-## Learn More
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### `Technology Used:`
+HTML, CSS, MongoDB, Express JS, Node JS, React, Heroku

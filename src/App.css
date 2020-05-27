@@ -60,7 +60,7 @@ header{
   margin: 20px 0 50px 0 ;
 }
 .hero h2{
-font-size: 20px;
+font-size: 1rem;
 }
 .recipes-content{
   display: grid;

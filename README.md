@@ -5,5 +5,5 @@ It is a recipe search app. The users can search recipes by simply typing in a ke
 ### `The Main Technology Used:`
 HTML, CSS, MongoDB, Express JS, Node JS, React, Heroku, SVG
 
-API Search Endpoint:
-"https://www.googleapis.com/books/v1/volumes?q="
+Meal DB API:
+"https://www.themealdb.com/api.php"

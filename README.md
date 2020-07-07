@@ -22,7 +22,7 @@ Once forked, in the Terminal type in "npm install" to install all the dependenci
 
 To run the app, whilst within the root folder within a terminal type in npm run Client and then create another instance of the terminal type in npm run Server.
 
-### `To Access The Live App Please Follow The Link:`
+### `To Access The Live App Please Follow The Link`
 https://superrecipe.herokuapp.com/
 
 To access the live app please follow this link

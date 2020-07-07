@@ -9,9 +9,9 @@ Meal DB API:
 "https://www.themealdb.com/api.php"
 
 ### `How The App Works`
-![see the results](http://http://peiwren.com/to/recipe3.jpg)
-<img src="table.png">
-<img src="table.png">
+<img src="http://peiwren.com/recipe1.jpg">
+<img src="http://peiwren.com/recipe2.jpg">
+<img src="http://peiwren.com/recipe3.jpg">
 
 ### `Flow`
 The user views the app with a browser.

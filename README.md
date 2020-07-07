@@ -8,6 +8,8 @@ HTML, CSS, MongoDB, Express JS, Node JS, React, Heroku, SVG
 Meal DB API:
 "https://www.themealdb.com/api.php"
 
+### `Screenshots`
+
 ### `Flow`
 The user views the app with a browser.
 The front end communicates with the Express back end via RESTful APIs.

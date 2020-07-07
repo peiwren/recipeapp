@@ -32,3 +32,4 @@ To access the live app please follow this link
 
 ### `Acknowledgements`
 I would like to thank Jim, Justin, and Dan of the Coding Bootcamp at Harvard Extension School for their help and support.
+

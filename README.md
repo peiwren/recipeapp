@@ -9,8 +9,11 @@ Meal DB API:
 "https://www.themealdb.com/api.php"
 
 ### `How The App Works`
+-Front screen with search field
 <img src="http://peiwren.com/recipe1.jpg">
+-Type an ingrient in the search field
 <img src="http://peiwren.com/recipe2.jpg">
+-Show the search results
 <img src="http://peiwren.com/recipe3.jpg">
 
 ### `Flow`

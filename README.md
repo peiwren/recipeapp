@@ -8,7 +8,7 @@ HTML, CSS, MongoDB, Express JS, Node JS, React, Heroku, SVG
 Meal DB API:
 "https://www.themealdb.com/api.php"
 
-### `How the app works`
+### `How The App Works`
 
 ### `Flow`
 The user views the app with a browser.
@@ -17,12 +17,12 @@ The back-end Express application uses the Mongo database for storing and retriev
 Back-end results are communicated back to the front end.
 Front-end results are rendered in a human-readable format to the user.
 
-### `Run the app`
+### `Run The App`
 Once forked, in the Terminal type in "npm install" to install all the dependencies and also npm install nodemon --save.
 
 To run the app, whilst within the root folder within a terminal type in npm run Client and then create another instance of the terminal type in npm run Server.
 
-### `To access the live app please follow the link:`
+### `To Access The Live App Please Follow The Link:`
 https://superrecipe.herokuapp.com/
 
 To access the live app please follow this link

@@ -7,3 +7,6 @@ HTML, CSS, MongoDB, Express JS, Node JS, React, Heroku, SVG
 
 Meal DB API:
 "https://www.themealdb.com/api.php"
+
+### `Acknowledgements:`
+I would like to thank Jim, Justin, and Dan of the Coding Bootcamp at Harvard Extension School for their help and support.

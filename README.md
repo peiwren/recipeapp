@@ -31,9 +31,6 @@ Once forked, in the Terminal type in "npm install" to install all the dependenci
 
 To run the app, whilst within the root folder within a terminal type in npm run Client and then create another instance of the terminal type in npm run Server.
 
-
-To access the live app please follow this link
-
 ### `Acknowledgements`
 I would like to thank Jim, Justin, and Dan of the Coding Bootcamp at Harvard Extension School for their help and support.
 

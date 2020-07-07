@@ -16,6 +16,9 @@ Meal DB API:
 -Show the search results
 <img src="http://peiwren.com/recipe3.jpg">
 
+### `To Access The Live App Please Follow The Link`
+https://superrecipe.herokuapp.com/
+
 ### `Flow`
 The user views the app with a browser.
 The front end communicates with the Express back end via RESTful APIs.
@@ -28,8 +31,6 @@ Once forked, in the Terminal type in "npm install" to install all the dependenci
 
 To run the app, whilst within the root folder within a terminal type in npm run Client and then create another instance of the terminal type in npm run Server.
 
-### `To Access The Live App Please Follow The Link`
-https://superrecipe.herokuapp.com/
 
 To access the live app please follow this link
 

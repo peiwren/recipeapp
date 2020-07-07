@@ -8,7 +8,7 @@ HTML, CSS, MongoDB, Express JS, Node JS, React, Heroku, SVG
 Meal DB API:
 "https://www.themealdb.com/api.php"
 
-### `Screenshots`
+### `How the app works`
 
 ### `Flow`
 The user views the app with a browser.
